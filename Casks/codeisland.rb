@@ -1,6 +1,6 @@
 cask "codeisland" do
-  version "1.0.23"
-  sha256 "5e8301239a10000c29a456b2c3dc4c7b5857c5fab57d7838f35a6aec3de99146"
+  version "1.0.24"
+  sha256 "a41d852365e9d0b1938362e15c9b7b510c77996a8b65ba62eb915e224ad219f2"
 
   url "https://github.com/wxtsky/CodeIsland/releases/download/v#{version}/CodeIsland.dmg"
   name "CodeIsland"
